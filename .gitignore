@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+env/
+.vscode/
+.idea/
+config/database.ini
+*.env
+logs/*.log
+data/*.csv
+data/*.json
+.DS_Store
